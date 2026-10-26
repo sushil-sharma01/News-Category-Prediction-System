@@ -1,0 +1,136 @@
+{
+    "accuracy": 99.67,
+    "cv_accuracy_mean": 99.89,
+    "cv_accuracy_std": 0.04,
+    "near_duplicate_test_pct": 0.4,
+    "duplicates_removed": 2580,
+    "unsupported_rows_removed": 0,
+    "source_datasets": [
+        "news_dataset_12_categories_7200.csv",
+        "news_dataset_final_3060.csv",
+        "category_keywords_100_each.csv"
+    ],
+    "keyword_samples_added": 1200,
+    "training_samples": 7344,
+    "testing_samples": 1536,
+    "total_samples": 8880,
+    "vocabulary_size": 18249,
+    "training_time_seconds": 1.31,
+    "avg_article_words": 55.5,
+    "median_article_words": 56.0,
+    "category_counts": {
+        "Business": 700,
+        "Climate": 700,
+        "Crime": 700,
+        "Education": 700,
+        "Entertainment": 796,
+        "Environment": 700,
+        "Health": 796,
+        "Politics": 700,
+        "Science": 796,
+        "Sports": 700,
+        "Technology": 796,
+        "World": 796
+    },
+    "categories": [
+        "Business",
+        "Climate",
+        "Crime",
+        "Education",
+        "Entertainment",
+        "Environment",
+        "Health",
+        "Politics",
+        "Science",
+        "Sports",
+        "Technology",
+        "World"
+    ],
+    "classification_report": {
+        "Business": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 120.0
+        },
+        "Climate": {
+            "precision": 0.9836065573770492,
+            "recall": 1.0,
+            "f1-score": 0.9917355371900827,
+            "support": 120.0
+        },
+        "Crime": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 120.0
+        },
+        "Education": {
+            "precision": 0.9917355371900827,
+            "recall": 1.0,
+            "f1-score": 0.995850622406639,
+            "support": 120.0
+        },
+        "Entertainment": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 139.0
+        },
+        "Environment": {
+            "precision": 0.9917355371900827,
+            "recall": 1.0,
+            "f1-score": 0.995850622406639,
+            "support": 120.0
+        },
+        "Health": {
+            "precision": 0.9928057553956835,
+            "recall": 0.9928057553956835,
+            "f1-score": 0.9928057553956835,
+            "support": 139.0
+        },
+        "Politics": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 120.0
+        },
+        "Science": {
+            "precision": 1.0,
+            "recall": 0.9712230215827338,
+            "f1-score": 0.9854014598540146,
+            "support": 139.0
+        },
+        "Sports": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 120.0
+        },
+        "Technology": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 140.0
+        },
+        "World": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 139.0
+        },
+        "accuracy": 0.9967447916666666,
+        "macro avg": {
+            "precision": 0.9966569489294081,
+            "recall": 0.9970023980815347,
+            "f1-score": 0.996803666437755,
+            "support": 1536.0
+        },
+        "weighted avg": {
+            "precision": 0.9967768983143657,
+            "recall": 0.9967447916666666,
+            "f1-score": 0.9967338650781974,
+            "support": 1536.0
+        }
+    }
+}

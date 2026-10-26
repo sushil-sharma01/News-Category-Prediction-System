@@ -1,0 +1,38 @@
+[
+  {
+    "id": "demo-tech-1",
+    "category": "Technology",
+    "headline": "New AI technology transforms modern computing",
+    "article": "Semiconductor engineers and artificial intelligence researchers have revealed a breakthrough in neural architecture design, reducing transformer model inference latency by forty percent while cutting data center energy overhead. Cloud providers are already deploying the accelerator chips across distributed server clusters."
+  },
+  {
+    "id": "demo-sports-2",
+    "category": "Sports",
+    "headline": "India secures victory in thrilling cricket match",
+    "article": "In a breathless final over under the stadium floodlights, India held their nerve against fierce opposition to seal a five-run international championship victory. The bowling spearhead defended ten runs in the decisive six deliveries, sparking euphoric celebrations across the packed stands."
+  },
+  {
+    "id": "demo-business-3",
+    "category": "Business",
+    "headline": "Corporate Earnings Surge as Major Retail Conglomerates Beat Quarterly Revenue Estimates",
+    "article": "Leading multinational retail conglomerates announced record-breaking fiscal quarterly financial results today, reporting a substantial surge in net profit and operating margins. Driven by robust consumer spending and optimized supply chain logistics, consolidated corporate revenue grew by twelve percent year-over-year. Chief Executive Officer Jane Doe highlighted strong dividend payouts and expanded share buyback programs, sending stock prices soaring across major financial exchanges and boosting overall investor confidence."
+  },
+  {
+    "id": "demo-health-4",
+    "category": "Health",
+    "headline": "New treatment shows promise in disease recovery",
+    "article": "Clinical trial investigators in a phase III multisite oncology study published striking findings for an engineered immunotherapy compound. Over eighty percent of participating patients exhibited substantial cellular remission within twelve weeks, with minimal immunological adverse effects observed."
+  },
+  {
+    "id": "demo-science-5",
+    "category": "Science",
+    "headline": "Scientists discover new planet beyond solar system",
+    "article": "Astrophysicists utilizing high-resolution orbital coronagraph spectrometers have confirmed the detection of a rocky exoplanet orbiting within the circumstellar habitable zone of a nearby G-type star. Atmospheric spectroscopy indicates traces of water vapor, methane, and atmospheric nitrogen."
+  },
+  {
+    "id": "demo-climate-6",
+    "category": "Climate",
+    "headline": "Global leaders meet to discuss climate action",
+    "article": "Ministers and heads of state from seventy-five countries convened at the annual climate diplomacy summit to finalize binding carbon border adjustments and capital replenishment for global adaptation funds. Delegates emphasized the urgency of accelerating decarbonization targets before the decade concludes."
+  }
+]

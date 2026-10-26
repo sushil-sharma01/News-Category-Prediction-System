@@ -1,0 +1,5 @@
+{
+  "name": "News Category Prediction System",
+  "description": "AI-Powered News Analysis and Classification Dashboard using NLP, TF-IDF Vectorization, and Logistic Regression.",
+  "version": "1.0.0"
+}
